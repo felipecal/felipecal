@@ -2,14 +2,16 @@
 <br>
 <p align="center">Hi, I'm Felipe Caldas, a person in search of knowledge from Brazil. :smiley:</p>
 <br>
+<p align="center">Connect with me:</p>
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-caldas-000/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecalldas/)
 </div>
+<br>
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCal&show_icons=true&theme=nightowl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeCal&repo=Felipe-Caldas&show_owner&theme=nightowl)](https://github.com/FelipeCal/Felipe-Caldas)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=nightowl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipecal&repo=FelipeCal&show_owner&theme=nightowl)](https://github.com/felipecal/Felipe-Caldas)
 
 
 
