@@ -1,6 +1,21 @@
+<h1 align="center">Hi there 💻, I'm Felipe Caldas.</h1>
+<br>
+<p align="center">Hi, I'm Felipe Caldas, a person in search of knowledge from Brazil. :smiley:</p>
+<br>
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-caldas-000/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecalldas/)
+</div>
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCal&show_icons=true&theme=nightowl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeCal&repo=Felipe-Caldas&show_owner&theme=nightowl)](https://github.com/FelipeCal/Felipe-Caldas)
 
 
-<h1>Hi there 💻  I'm Felipe Caldas</h1>
+
+
+
+
 
 
 <!--
