@@ -10,7 +10,8 @@
 </div>
 <br>
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=nightowl) 
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&theme=nightowl)](https://github.com/felipecal/store-brooklyn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipecal&repo=FelipeCal&show_owner&theme=nightowl)](https://github.com/felipecal/FelipeCal)
 
 
