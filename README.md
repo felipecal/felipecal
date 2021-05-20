@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 💻, I'm Felipe Caldas.</h1>
 <br>
-<p align="center">Hi, I'm Felipe Caldas, a person in looking for knowledge from Brazil. :smiley:</p>
+<p align="center">Hi, I'm Felipe Caldas, a person looking for knowledge from Brazil. :smiley:</p>
 <br>
 <p align="center">Connect with me:</p>
 <div align="center">
