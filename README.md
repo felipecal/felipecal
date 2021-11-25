@@ -11,7 +11,7 @@
 <br>
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&theme=nightowl)](https://github.com/felipecal/store-brooklyn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&theme=nightowl)](https://github.com/felipecal/Java-POO)
 
 
 
