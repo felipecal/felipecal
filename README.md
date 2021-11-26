@@ -4,14 +4,11 @@
 <p align="center">Resume: <a href="https://felipecal.github.io">Felipe Caldas</a></p>
 <p align="center">Connect with me:</p>
 <div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-caldas-000/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecalldas/)
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <br>
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&theme=nightowl)](https://github.com/felipecal/Java-POO)
 
 
 
