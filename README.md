@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 💻, I'm Felipe Caldas.</h1>
 <br>
 <p align="center">Hi, I'm Felipe Caldas, a person looking for knowledge from Brazil. :smiley:</p>
-<p align="center">Resume: <a href="https://felipecal.github.io">Felipe Caldas</a></p>
 <p align="center">Connect with me:</p>
 <div align="center">  
     <a href="https://felipecal.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
