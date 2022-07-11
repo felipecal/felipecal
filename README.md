@@ -8,5 +8,5 @@
 </div>
 <br>
 
-<a href="https://github.com/felipecal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Felipe's github stats" /></a><a href="https://github.com/felipecal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&layout=compact&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/felipecal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felipecal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Felipe's github stats" /></a><a href="https://github.com/felipecal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&layout=compact&theme=dark&hide_border=true" /></a>
 <br>
