@@ -33,4 +33,4 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=felipecal&color=blueviolet)
+<p align="center"><img src=https://komarev.com/ghpvc/?username=felipecal&color=blueviolet></p>
