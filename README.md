@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">, I'm Felipe Caldas.</h1>
 <br>
-<p align="center">Hi, I'm Felipe Caldas, a person looking for knowledge from Brazil. :smiley:</p>
-<p align="center">Connect with me:</p>
+<h3 align="center">Hi, I'm Felipe Caldas, a person looking for knowledge from Brazil. :smiley:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">  
   <code><a href="https://www.linkedin.com/in/felipe-caldas-000/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
   <code><a href="https://www.instagram.com/felipecalldas/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" target="_blank" alt="instagram" width="50"></a></code>
