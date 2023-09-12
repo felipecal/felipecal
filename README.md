@@ -4,7 +4,6 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">  
   <code><a href="https://www.linkedin.com/in/felipe-caldas-000/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
-  <code><a href="https://www.instagram.com/felipecalldas/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" target="_blank" alt="instagram" width="50"></a></code>
 </div>
 <br>
 
