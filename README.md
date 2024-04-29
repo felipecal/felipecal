@@ -9,11 +9,16 @@
 
 <div align="center"> 
   
- ![FelipeCaldas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipecal&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+ ![Felipe Caldas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipecal&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 
 | ![Felipe Caldas stats](https://github-readme-stats.vercel.app/api?username=felipecal\&theme=aura&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&show_icons=true) | <a href="https://github.com/felipecal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecal&layout=compact&theme=aura&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
+
+[![Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecal&theme=github-compact&title_color=a177ff&line=5df9c5&point=ffca85&bg_color=15141b&color=a177ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
+
+
 
 <br>
 <br>
