@@ -24,6 +24,7 @@
 <code><img height="40" alt="python" src="https://cdn-icons-png.flaticon.com/128/1387/1387537.png"></code>
 <code><img height="40" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="40" alt="rabbitmq" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"></code>
+<code><img height="40" alt="nestjs" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"></code>
 <code><img height="40" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"></code>
 <code><img height="40" alt="sequelize" src="https://cdn.iconscout.com/icon/free/png-256/sequelize-2-1175003.png"></code>
 <code><img height="40" alt="docker" src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png"></code>
@@ -32,6 +33,7 @@
 <code><img height="40" alt="postgres" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> 
 <code><img height="40" alt="dynamodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"></code> 
 <code><img height="40" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"></code> 
+
 
 </div>
 
